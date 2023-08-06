@@ -1,0 +1,3 @@
+Chennai,100
+Hyderabad,75
+Pondicherry,50
